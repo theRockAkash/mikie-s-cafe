@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1A0E05"/><stop offset="100%" stop-color="#5C2A10"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Curry bowl -->
+  <ellipse cx="300" cy="200" rx="88" ry="26" fill="rgba(201,168,76,0.18)" stroke="rgba(201,168,76,0.35)" stroke-width="2"/>
+  <path d="M212,200 Q210,256 248,272 Q270,282 300,283 Q330,282 352,272 Q390,256 388,200" fill="rgba(201,168,76,0.12)" stroke="rgba(201,168,76,0.28)" stroke-width="2"/>
+  <!-- Paneer cubes on top -->
+  <rect x="258" y="190" width="22" height="22" rx="3" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <rect x="289" y="187" width="22" height="22" rx="3" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <rect x="320" y="190" width="22" height="22" rx="3" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <text x="300" y="323" text-anchor="middle" font-family="Georgia,serif" font-size="19" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">PANEER BUTTER MASALA</text>
+  <text x="300" y="354" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-paneer-butter-masala.jpg · 600×400</text>
+</svg>

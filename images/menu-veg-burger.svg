@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#3A1800"/><stop offset="100%" stop-color="#7A3C18"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Burger layers -->
+  <ellipse cx="300" cy="158" rx="72" ry="22" fill="rgba(201,168,76,0.28)" stroke="rgba(201,168,76,0.45)" stroke-width="2"/>
+  <rect x="228" y="175" width="144" height="14" rx="2" fill="rgba(255,255,255,0.12)"/>
+  <rect x="222" y="186" width="156" height="22" rx="3" fill="rgba(201,168,76,0.18)" stroke="rgba(201,168,76,0.3)" stroke-width="1.5"/>
+  <rect x="228" y="205" width="144" height="12" rx="2" fill="rgba(255,255,255,0.1)"/>
+  <rect x="222" y="214" width="156" height="14" rx="2" fill="rgba(201,168,76,0.15)"/>
+  <ellipse cx="300" cy="232" rx="76" ry="14" fill="rgba(201,168,76,0.2)" stroke="rgba(201,168,76,0.35)" stroke-width="2"/>
+  <text x="300" y="302" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">VEG BURGER</text>
+  <text x="300" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-veg-burger.jpg · 600×400</text>
+</svg>

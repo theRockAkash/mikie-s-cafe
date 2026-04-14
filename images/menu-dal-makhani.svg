@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#250E00"/><stop offset="100%" stop-color="#582A10"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Deep bowl -->
+  <ellipse cx="300" cy="185" rx="90" ry="28" fill="rgba(201,168,76,0.18)" stroke="rgba(201,168,76,0.35)" stroke-width="2"/>
+  <path d="M210,185 Q208,252 248,268 Q270,278 300,279 Q330,278 352,268 Q392,252 390,185" fill="rgba(201,168,76,0.1)" stroke="rgba(201,168,76,0.25)" stroke-width="2"/>
+  <!-- Cream swirl on top -->
+  <path d="M270,182 Q290,172 310,180 Q325,186 315,195 Q305,200 295,194 Q280,186 290,178" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2.5"/>
+  <text x="300" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">DAL MAKHANI</text>
+  <text x="300" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-dal-makhani.jpg · 600×400</text>
+</svg>

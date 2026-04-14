@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="800" height="1100">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3D1A00"/>
+      <stop offset="100%" stop-color="#7B3F1A"/>
+    </linearGradient>
+    <pattern id="dots" width="35" height="35" patternUnits="userSpaceOnUse">
+      <circle cx="17" cy="17" r="1.2" fill="rgba(201,168,76,0.1)"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1100" fill="url(#g)"/>
+  <rect width="800" height="1100" fill="url(#dots)"/>
+  <!-- Table icon -->
+  <rect x="320" y="390" width="160" height="12" rx="3" fill="rgba(201,168,76,0.3)"/>
+  <rect x="355" y="402" width="8" height="60" fill="rgba(201,168,76,0.25)"/>
+  <rect x="437" y="402" width="8" height="60" fill="rgba(201,168,76,0.25)"/>
+  <!-- Chair silhouettes -->
+  <rect x="290" y="430" width="30" height="50" rx="4" fill="rgba(201,168,76,0.15)"/>
+  <rect x="480" y="430" width="30" height="50" rx="4" fill="rgba(201,168,76,0.15)"/>
+  <text x="400" y="540" text-anchor="middle" dominant-baseline="middle" font-family="Georgia,serif" font-size="26" fill="rgba(201,168,76,0.65)" font-weight="bold" letter-spacing="2">CAFE INTERIOR</text>
+  <text x="400" y="578" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.28)">Replace: gallery-1.jpg · 800×1100</text>
+  <text x="400" y="610" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(201,168,76,0.3)">Tip: Use a portrait/tall photo for this slot</text>
+</svg>

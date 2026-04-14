@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#221000"/><stop offset="100%" stop-color="#503020"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Idli circles on plate -->
+  <ellipse cx="300" cy="220" rx="105" ry="30" fill="rgba(201,168,76,0.12)" stroke="rgba(201,168,76,0.25)" stroke-width="2"/>
+  <ellipse cx="258" cy="192" rx="36" ry="24" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <ellipse cx="300" cy="185" rx="36" ry="24" fill="rgba(255,255,255,0.18)" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <ellipse cx="342" cy="192" rx="36" ry="24" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <!-- Sambar bowl -->
+  <ellipse cx="430" cy="195" rx="38" ry="13" fill="rgba(201,168,76,0.18)" stroke="rgba(201,168,76,0.35)" stroke-width="2"/>
+  <path d="M392,195 Q392,228 430,233 Q468,228 468,195" fill="rgba(201,168,76,0.1)"/>
+  <text x="290" y="310" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">IDLI SAMBAR</text>
+  <text x="290" y="342" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-idli-sambar.jpg · 600×400</text>
+</svg>

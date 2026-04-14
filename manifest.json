@@ -1,0 +1,39 @@
+{
+  "name": "Mikie's Cafe & Restaurant",
+  "short_name": "Mikie's Cafe",
+  "description": "Best Cafe & Restaurant in Lakhimpur – Fast Food, Chinese, South Indian, Biryani & more near Don Bosco School.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFAF4",
+  "theme_color": "#2C1A0E",
+  "categories": ["food", "restaurants"],
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "View Menu",
+      "url": "/#menu",
+      "description": "Browse our full menu"
+    },
+    {
+      "name": "Call Us",
+      "url": "tel:+919137580290",
+      "description": "Call Mikie's Cafe directly"
+    },
+    {
+      "name": "Book a Table",
+      "url": "/#reservation",
+      "description": "Reserve a table via WhatsApp"
+    }
+  ]
+}

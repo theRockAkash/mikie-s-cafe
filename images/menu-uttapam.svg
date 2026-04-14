@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1E0E05"/><stop offset="100%" stop-color="#4A2818"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Uttapam – thick round pancake -->
+  <ellipse cx="300" cy="200" rx="95" ry="30" fill="rgba(201,168,76,0.22)" stroke="rgba(201,168,76,0.4)" stroke-width="2.5"/>
+  <ellipse cx="300" cy="195" rx="82" ry="24" fill="rgba(201,168,76,0.12)"/>
+  <!-- Toppings dots -->
+  <circle cx="268" cy="192" r="7" fill="rgba(255,255,255,0.22)"/>
+  <circle cx="300" cy="188" r="7" fill="rgba(255,255,255,0.22)"/>
+  <circle cx="332" cy="192" r="7" fill="rgba(255,255,255,0.22)"/>
+  <circle cx="284" cy="200" r="6" fill="rgba(201,168,76,0.3)"/>
+  <circle cx="316" cy="200" r="6" fill="rgba(201,168,76,0.3)"/>
+  <text x="300" y="290" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">UTTAPAM</text>
+  <text x="300" y="322" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-uttapam.jpg · 600×400</text>
+</svg>

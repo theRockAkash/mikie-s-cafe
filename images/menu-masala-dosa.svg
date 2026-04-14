@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1A0A00"/><stop offset="100%" stop-color="#4A2A10"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Dosa shape (long crispy crepe) -->
+  <ellipse cx="300" cy="195" rx="130" ry="38" fill="rgba(201,168,76,0.22)" stroke="rgba(201,168,76,0.45)" stroke-width="2.5"/>
+  <ellipse cx="300" cy="195" rx="100" ry="26" fill="rgba(201,168,76,0.1)"/>
+  <!-- Filling mound -->
+  <ellipse cx="300" cy="190" rx="50" ry="18" fill="rgba(201,168,76,0.2)" stroke="rgba(201,168,76,0.3)" stroke-width="1.5"/>
+  <!-- Small bowl for chutney -->
+  <ellipse cx="470" cy="210" rx="30" ry="10" fill="rgba(255,255,255,0.12)" stroke="rgba(201,168,76,0.3)" stroke-width="1.5"/>
+  <path d="M440,210 Q440,240 470,245 Q500,240 500,210" fill="rgba(255,255,255,0.08)" stroke="rgba(201,168,76,0.25)" stroke-width="1.5"/>
+  <text x="280" y="295" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">MASALA DOSA</text>
+  <text x="280" y="327" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-masala-dosa.jpg · 600×400</text>
+</svg>

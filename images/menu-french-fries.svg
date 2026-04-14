@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#2A1000"/><stop offset="100%" stop-color="#6A3010"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Fries container -->
+  <path d="M258,225 L262,155 L338,155 L342,225 Z" fill="rgba(201,168,76,0.2)" stroke="rgba(201,168,76,0.4)" stroke-width="2"/>
+  <!-- Individual fries sticking out -->
+  <rect x="268" y="118" width="10" height="50" rx="4" fill="rgba(201,168,76,0.4)"/>
+  <rect x="283" y="108" width="10" height="58" rx="4" fill="rgba(201,168,76,0.35)"/>
+  <rect x="298" y="115" width="10" height="52" rx="4" fill="rgba(201,168,76,0.38)"/>
+  <rect x="313" y="110" width="10" height="56" rx="4" fill="rgba(201,168,76,0.36)"/>
+  <rect x="328" y="120" width="10" height="46" rx="4" fill="rgba(201,168,76,0.33)"/>
+  <text x="300" y="300" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">FRENCH FRIES</text>
+  <text x="300" y="332" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-french-fries.jpg · 600×400</text>
+</svg>

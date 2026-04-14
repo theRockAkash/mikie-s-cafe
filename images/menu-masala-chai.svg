@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1A0800"/><stop offset="100%" stop-color="#3D1A00"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Tea cup -->
+  <path d="M252,175 L258,255 Q258,272 300,272 Q342,272 342,255 L348,175 Z" fill="rgba(201,168,76,0.15)" stroke="rgba(201,168,76,0.35)" stroke-width="2"/>
+  <!-- Liquid -->
+  <path d="M256,195 L260,255 Q260,268 300,268 Q340,268 340,255 L344,195 Z" fill="rgba(201,168,76,0.22)"/>
+  <!-- Handle -->
+  <path d="M348,200 Q375,200 375,220 Q375,242 348,242" fill="none" stroke="rgba(201,168,76,0.4)" stroke-width="3"/>
+  <!-- Saucer -->
+  <ellipse cx="300" cy="276" rx="68" ry="12" fill="rgba(201,168,76,0.18)" stroke="rgba(201,168,76,0.3)" stroke-width="1.5"/>
+  <!-- Steam lines -->
+  <path d="M284,165 Q289,148 284,131" fill="none" stroke="rgba(201,168,76,0.3)" stroke-width="2"/>
+  <path d="M300,162 Q305,144 300,126" fill="none" stroke="rgba(201,168,76,0.25)" stroke-width="2"/>
+  <path d="M316,165 Q321,148 316,131" fill="none" stroke="rgba(201,168,76,0.3)" stroke-width="2"/>
+  <text x="300" y="322" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">MASALA CHAI</text>
+  <text x="300" y="354" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-masala-chai.jpg · 600×400</text>
+</svg>

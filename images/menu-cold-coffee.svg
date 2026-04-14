@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0E0A00"/><stop offset="100%" stop-color="#2C1A0E"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Tall glass -->
+  <path d="M272,130 L268,255 Q268,272 300,272 Q332,272 332,255 L328,130 Z" fill="rgba(201,168,76,0.1)" stroke="rgba(201,168,76,0.35)" stroke-width="2"/>
+  <!-- Liquid fill -->
+  <path d="M273,155 L269,255 Q269,270 300,270 Q331,270 331,255 L327,155 Z" fill="rgba(201,168,76,0.18)"/>
+  <!-- Ice cubes -->
+  <rect x="282" y="200" width="16" height="16" rx="3" fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <rect x="302" y="210" width="15" height="15" rx="3" fill="rgba(255,255,255,0.22)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <!-- Straw -->
+  <rect x="318" y="108" width="5" height="130" rx="2" fill="rgba(201,168,76,0.45)"/>
+  <!-- Whipped cream top -->
+  <ellipse cx="300" cy="138" rx="32" ry="14" fill="rgba(255,255,255,0.18)"/>
+  <text x="300" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">COLD COFFEE</text>
+  <text x="300" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-cold-coffee.jpg · 600×400</text>
+</svg>

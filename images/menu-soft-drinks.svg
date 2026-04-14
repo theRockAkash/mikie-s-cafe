@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#080610"/><stop offset="100%" stop-color="#1A1230"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <!-- Can shape -->
+  <rect x="270" y="148" width="60" height="112" rx="8" fill="rgba(201,168,76,0.18)" stroke="rgba(201,168,76,0.4)" stroke-width="2"/>
+  <ellipse cx="300" cy="148" rx="30" ry="10" fill="rgba(201,168,76,0.28)" stroke="rgba(201,168,76,0.45)" stroke-width="1.5"/>
+  <ellipse cx="300" cy="260" rx="30" ry="10" fill="rgba(201,168,76,0.22)" stroke="rgba(201,168,76,0.4)" stroke-width="1.5"/>
+  <!-- Highlight stripe -->
+  <rect x="278" y="155" width="10" height="98" rx="4" fill="rgba(255,255,255,0.1)"/>
+  <!-- Pull tab -->
+  <rect x="292" y="138" width="16" height="12" rx="3" fill="rgba(201,168,76,0.4)" stroke="rgba(201,168,76,0.6)" stroke-width="1"/>
+  <text x="300" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="rgba(201,168,76,0.7)" font-weight="bold" letter-spacing="1">SOFT DRINKS</text>
+  <text x="300" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.28)">Replace: menu-soft-drinks.jpg · 600×400</text>
+</svg>
